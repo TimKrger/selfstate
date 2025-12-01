@@ -77,7 +77,7 @@ You must use these terms in the code (variable names) and in the UI. We do not u
 | Wrong (Avoid)   | **Correct (SelfState / Quandes)** | Explanation                                                    |
 | :-------------- | :-------------------------------- | :------------------------------------------------------------- |
 | Habit           | **Micro-Script**                  | Small, atomic action (< 2 min).                                |
-| Tracking / Log  | **State Sync**                    | The moment of calibration & reflection.                        |
+| Tracking / Log  | **State Sync**                    | The moment of self-alignment & reflection.                     |
 | Goal            | **Identity**                      | What role does this behavior feed into? (Self/Create/Connect). |
 | Streak          | **Flow Chain**                    | Focus on continuity in flow, not pressure.                     |
 | Admin / Manager | **Impact Coach**                  | The role of the AI or Mentor.                                  |

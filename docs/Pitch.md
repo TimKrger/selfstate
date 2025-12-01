@@ -72,7 +72,7 @@ Wir zerlegen Identität in atomare Einheiten. Ein Mikro-Skript dauert oft nur 2 
 
 ### 4.2 Der Taktgeber: State Sync
 
-Der tägliche **State Sync** ist das Herzstück. Es ist ein kurzer Moment der Kalibrierung (ähnlich einem Daily Stand-up im Camp).
+Der tägliche **State Sync** ist das Herzstück. Es ist ein kurzer Moment des Selbstabgleichs (ähnlich einem Daily Stand-up im Camp).
 
 - Hier wird nicht Leistung kontrolliert, sondern **Kohärenz geprüft**.
 - Frage: "War das Skript heute im Flow? Wenn nein: War der Auslöser unklar? Die Belohnung zu klein? Die Hürde zu hoch?"
