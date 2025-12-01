@@ -11,7 +11,7 @@ SelfState hebt Changemaker in den Flow: Identitäten gestalten, Micro-Scripts au
 Weg von Willenskraft, hin zu Identität und Flow Chains – mit einem empathischen Impact Coach und täglichem State Sync.
 
 ## Lead
-Berlin, 30. September 2025 – Quandes Projects e. V. kündigt mit SelfState die erste Open-Source-Plattform an, die Verhaltensänderung konsequent über Identität und Flow steuert. Im Zentrum stehen **Micro-Scripts** (winzige, 2-minütige Handlungen), tägliche **State Syncs** zur Kalibrierung und ein KI-gestützter **Impact Coach**, der vereinfachen statt überfordern will. Das Ergebnis: Changemaker, Gründerinnen und Teams bauen eine stabile **Flow Chain**, ohne sich zu verbrennen.
+Berlin, 30. September 2025 – Quandes Projects e. V. kündigt mit SelfState die erste Identitäts- und Flow-Plattform an, die Verhaltensänderung konsequent über Haltung und Leichtigkeit steuert. Im Zentrum stehen **Micro-Scripts** (winzige, 2-minütige Handlungen), tägliche **State Syncs** zur Kalibrierung und ein empathischer **Impact Coach**, der vereinfachen statt überfordern will. Das Ergebnis: Changemaker, Gründerinnen und Teams bauen eine stabile **Flow Chain**, ohne sich zu verbrennen.
 
 ## Das Problem
 - Social Innovators scheitern nicht an Ideen, sondern an Energie-Lecks und der Willenskraft-Falle.  
@@ -19,7 +19,7 @@ Berlin, 30. September 2025 – Quandes Projects e. V. kündigt mit SelfState die
 - Ohne soziale Spiegelung entsteht das Hero-Syndrom: Isolation statt Community-getriebene Weiterentwicklung.
 
 ## Die Lösung
-SelfState übersetzt Identitäten in **Micro-Scripts**, prüft sie täglich im **State Sync** und hält den Flow-Kompass hoch. Der **Impact Coach** reagiert empathisch: Wenn Reibung auftaucht, schlägt er IMMER eine Vereinfachung (Step-down) vor – nie mehr Druck.
+SelfState übersetzt Identitäten in **Micro-Scripts**, prüft sie täglich im **State Sync** und hält den Flow-Kompass hoch. Der **Impact Coach** reagiert empathisch: Wenn Reibung auftaucht, schlägt er IMMER eine Vereinfachung (Step-down) vor – nie mehr Druck. Alles ist so gestaltet, dass es sich menschlich, leicht und alltagstauglich anfühlt.
 
 ## Für wen?
 - Changemaker im Social Impact Camp, die Impact ohne Burnout wollen.  
@@ -30,7 +30,7 @@ SelfState übersetzt Identitäten in **Micro-Scripts**, prüft sie täglich im *
 1. **Identity-First Planning:** Drei Säulen (SELF, CREATE, CONNECT) verankern Verhalten in Rollen statt in To-do-Listen.  
 2. **Micro-Scripts statt Habits:** Atomare 2-Minuten-Skripte senken Reibung, bauen Momentum und verhindern Ego Depletion.  
 3. **Daily State Sync:** Kurzer Check-in, der Flow misst, Friktion sichtbar macht und sofort eine Anpassung vorschlägt.  
-4. **Impact Coach (KI):** Vercel AI SDK, empathischer Ton. Erkennt Impact-Stress und bietet Step-downs an.  
+4. **Impact Coach (KI):** Spricht wie ein Coach, nicht wie ein Bot. Erkennt Impact-Stress und bietet Step-downs an.  
 5. **Pattern Library:** Community-sourced Patterns, die sich per “Clone & Adapt” in eigene Micro-Scripts verwandeln.  
 6. **Flow Chain Tracker:** Visualisiert Kontinuität, nicht Streak-Pressure. Fortschritt fühlt sich leicht an.
 
