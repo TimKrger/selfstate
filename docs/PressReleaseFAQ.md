@@ -17,3 +17,15 @@ A: Es ist ein Ideen-Pool aus dem Social Impact Camp. Du kopierst ein Pattern, pa
 
 **Q: Was, wenn ich einen Tag aussetze?**  
 A: Die Flow Chain ist fehlertolerant. Der State Sync schlägt einen sanften Re-Entry vor, statt Druck aufzubauen.
+
+**Q: Was kostet SelfState?**  
+A: Die Public Beta ist kostenfrei. Das Projekt ist Open Source und bleibt für die Community zugänglich.
+
+**Q: Wie starte ich?**  
+A: Wähle eine Identität (SELF, CREATE oder CONNECT), erstelle zwei Micro-Scripts unter 2 Minuten und mach den ersten State Sync am nächsten Tag.
+
+**Q: Funktioniert das auch im Team?**  
+A: Ja. Teams können gemeinsame Patterns nutzen und Flow Chains sichtbar machen, ohne Streak-Druck aufzubauen.
+
+**Q: Was ist, wenn mich der Impact Coach überfordert?**  
+A: Sag im State Sync, dass es zu viel ist. Der Coach schlägt immer eine einfachere, kürzere Version vor – Step-down statt Step-up.
