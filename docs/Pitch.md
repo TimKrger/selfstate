@@ -25,11 +25,21 @@ Das Projekt wird unter der Schirmherrschaft von Quandes Projects e. V. entwickel
 
 ## 2. Das Problem: Die "Impact-Blockade"
 
-Wer die Welt verändern will (Social Innovators), muss zuerst sich selbst steuern können. Doch oft beobachten wir im Social Impact Camp folgende Hürden:
+Wer die Welt verändern will (Social Innovators), steht vor einer paradoxen Herausforderung: Die Leidenschaft für das "große Ganze" führt oft zur Vernachlässigung des "kleinen Eigenen". Im Social Impact Camp beobachten wir, dass viele Changemaker nicht an mangelnden Ideen oder fehlendem Talent scheitern, sondern an der **Operationalisierung ihrer eigenen Energie**.
 
-- **Die Willenskraft-Falle:** Changemaker brennen aus, weil sie versuchen, komplexe Projekte und persönliche Veränderung rein über Disziplin zu steuern. Willenskraft ist jedoch eine endliche Ressource.
-- **Gap zwischen Vision und Alltag:** Die große Idee ("Ideas to Impact") ist klar, aber die tägliche Routine spiegelt diese Identität noch nicht wider.
-- **Fehlende "Basalganglien-Strategie":** Wir versuchen oft kognitiv (Großhirn) zu arbeiten, während nachhaltiges Verhalten in den tieferen Hirnregionen (Gewohnheitszentrum) verankert werden muss.
+Wir identifizieren vier Kern-Probleme, die wir als "Impact-Blockade" bezeichnen:
+
+### 2.1 Die Willenskraft-Falle (Ego Depletion)
+Changemaker neigen dazu, Veränderung durch schiere Anstrengung erzwingen zu wollen. Sie behandeln sich selbst wie eine Maschine, die nur genug "Disziplin" braucht. Die psychologische Realität ist jedoch: **Willenskraft ist eine endliche Ressource**. Wer sie für den Kampf gegen den inneren Schweinehund aufbraucht, hat keine kognitive Energie mehr für kreative Problemlösung oder strategische Entscheidungen. Das Resultat ist oft Burnout statt Durchbruch.
+
+### 2.2 Der "Vision-Reality Gap"
+Es klafft oft eine schmerzhafte Lücke zwischen dem Selbstbild ("Ich bin ein Innovator") und der tatsächlichen Tagesstruktur. Während die Vision glasklar ist ("Ideas to Impact"), wird der Alltag von Reaktivität, Prokrastination oder "Busy-Work" dominiert. Diese Diskrepanz erzeugt **kognitive Dissonanz**: Das ständige Gefühl, hinter den eigenen Ansprüchen zurückzubleiben, nagt am Selbstvertrauen und der Wirksamkeit.
+
+### 2.3 Das "Hero-Syndrom" (Isolation)
+Viele Gründer und Aktivisten glauben, sie müssten den Weg der Veränderung allein gehen. Sie sehen persönliche Routinen als Privatsache und nutzen nicht die Kraft sozialer Rechenschaft (Accountability). Ohne Feedback-Schleifen und externe Spiegelung verfestigen sich ineffiziente Muster, und das Gefühl der Isolation wächst.
+
+### 2.4 Fehlende "Basalganglien-Strategie"
+Die meisten Versuche der Selbstoptimierung finden im präfrontalen Cortex statt – dem Sitz des bewussten, aber energieintensiven Denkens. Nachhaltige Veränderung muss jedoch in die **Basalganglien** wandern, wo automatisierte Gewohnheiten (Habits) sitzen. Wir versuchen oft, biologische Prozesse intellektuell zu übersteuern, statt das Gehirn so zu nutzen, wie es evolutionsbiologisch gebaut ist: als Energiespar-Maschine, die Wiederholungen liebt.
 
 ---
 
